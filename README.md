@@ -6,3 +6,4 @@ This project take the data from the Israely CBS data about the first name of bab
 * numpy
 * pandas
 * matplotlib.pyplot
+* scipy
